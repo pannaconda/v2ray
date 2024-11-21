@@ -26,9 +26,6 @@ SITES=(
 	http://www.tiandizw.com/
 	https://b.faloo.com/
 	https://www.17k.com/
-	https://www.yousuu.com/
-	http://www.qwsy.com/
-	http://www.inbook.net/
 	https://www.zzwenxue.com/
 )
 
